@@ -1,0 +1,10 @@
+# gitignore::
+
+# build::
+bin/
+obj/
+core
+core.*
+appsettings.json
+appsettings.*.json
+
